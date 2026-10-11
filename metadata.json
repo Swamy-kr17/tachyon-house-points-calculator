@@ -1,0 +1,6 @@
+{
+  "name": "TACHYON — House Competition Command Center",
+  "description": "Futuristic esports command center for tracking house competition scores, candidate management, and live rankings.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
